@@ -1,1 +1,6 @@
 .DS_Store
+*.xcworkspacedata
+*.pbxproj
+*.xcworkspacedata
+*.xcworkspacedata
+/swift/xcode/adhocjson/adhocjson.xcodeproj
