@@ -22,7 +22,7 @@ z = `
 20., Brigittenau
 21., Floridsdorf
 22., Donaustadt
-23., Liesin
+23., Liesing
 `;
 x = z.split("\n");
 x = x.filter(d => d.trim().length > 0)
